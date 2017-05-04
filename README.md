@@ -1,3 +1,5 @@
+# Plugins úteis para Visual Studio Code
+
 Vou mostrar abaixo alguns plugins úteis para o Visual Studio Code, caso você seja um desenvolvedor que trabalhe com Angular, TypeScript ou ECMA6.
 <ul>
  	<li><strong><a href="https://marketplace.visualstudio.com/items?itemName=UVBrain.Angular2" target="_blank" rel="noopener noreferrer">Angular 2, 4 and upcoming latest TypeScript HTML Snippets</a></strong>: Code-Snippets  para Angular2 e Angular4;</li>
